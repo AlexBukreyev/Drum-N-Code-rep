@@ -1,3 +1,9 @@
 # Drum-N-Code-rep
 
-# You should create a creeds.json, for example creeds_example.json (next to it) in the root of the project.
+# You should create a creeds.json in the root of the project.
+# For example:
+
+# {    
+#  "mail" : "test_mail@gmail.com", 
+#  "pwd" : "Kg123456}{"
+# }
